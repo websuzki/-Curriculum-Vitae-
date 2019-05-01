@@ -7,3 +7,4 @@
 
 
 ## スキル
+Ruby Rails
