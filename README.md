@@ -7,4 +7,4 @@
 
 
 ## スキル
-Ruby Rails
+Ruby Rails Git Bootstrap jQuery HTML&CSS
