@@ -15,7 +15,12 @@
 
 
 # スキル
-Ruby Rails Git Bootstrap jQuery HTML&CSS
++ Ruby
++ Rails
++ Git
++ Bootstrap
++ jQuery
++ HTML&CSS
 
 ## Git・GitHub
 Develop・featureブランチを作成しながら、サービスを中断させず、継続的にアップデートしていく手法を使いこなせます
