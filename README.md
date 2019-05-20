@@ -17,7 +17,9 @@
 # スキル
 + Ruby
 + Rails
-+ Git
++ Git・GitHub
++ AWS
++ Linux Bash
 + Bootstrap
 + jQuery
 + HTML&CSS
@@ -26,5 +28,6 @@
 Develop・featureブランチを作成しながら、サービスを中断させず、継続的にアップデートしていく手法を使いこなせます
 
 - 複数人で作業することを想定したGitHubの利用
+- hotfixブランチによる修正
 - 近日アップデート用のdevelopブランチと、将来の大規模アップデート用のdevelop#○○ を使用する開発
 - rebase、filter-branchによる、コメントの整理と見やすさの向上
